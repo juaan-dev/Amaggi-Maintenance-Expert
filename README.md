@@ -1,6 +1,6 @@
 <!-- ************************************* Logo ********************************************* -->
 <div align="center">
-  <img width="550px" height="450px" alt="Logo" src="./assets/img/logo.png">
+  <img width="350px" height="250px" alt="Logo" src="./assets/img/logo.png">
 </div>
 
 </br>
